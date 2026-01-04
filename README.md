@@ -71,25 +71,24 @@
 
 ## 🛠 Experience
 
-### **Full Stack Engineer — AgAID Institute & WSU AgWeatherNet**  
-*May 2025 – Present | Pullman, WA*  
-- Built Flask/MySQL/InfluxDB APIs and a React.js UI for ranch & IoT device management, improving operational efficiency and increasing user engagement by **37%**.  
-- Developed heat-stress visualization and real-time environmental dashboards to protect livestock health.  
-- Rebuilt the official WSU AgWeatherNet website using a **Go backend + React frontend**.  
-- Created an Express.js microservice for **IDW interpolation**, enabling fast, accurate weather-map generation.
+### **Software Engineer - Schweitzer Engineering Laboratories, Inc.**  
+*Jan 2021 – Present | Pullman, WA*  
+- Led firmware development for 5+ projects, architecting robust C/C++ solutions for power system relays and automating build deployment with Jenkins, enhancing system reliability by 15% across 10 different SEL-4XX devices.
+- Designed and optimized protection system logic on a VLIW processor using SHARC assembly, reducing processing load by 10% and accelerating response times across all SEL-4XX devices.
+- Debugged real-time power system signals using Omicron and Synchrowave testing equipment, achieving 90% issue resolution rate.
+- Collaborated cross-functionally with hardware, software, and product teams to optimize product performance and drive continuous improvements in firmware reliability and efficiency.
+- Managed project timelines, prioritized tasks, and mentored junior engineers, fostering a culture of innovation and excellence in embedded system development.
 
-### **AI & Backend Engineer — Pathcrusher Interactive, Inc.**  
-*Mar 2025 – Present | Remote*  
-- Built secure RESTful APIs using **NestJS + TypeScript**, integrating OpenAI for adaptive learning paths.  
-- Reduced backend latency by **28%** using caching, optimized routes, and service restructuring.  
-- Designed database schemas in PostgreSQL with TypeORM, improving DB performance by **35%**.  
-- Participated in Agile sprints, code reviews, and feature planning in a 7-person engineering team.
+### **Computer Science Tutors - Varsity Tutors Inc.**  
+*June 2020 - Dec 2020 | Remote*  
+- Delivered personalized tutoring to over 100 students with diverse programming backgrounds in C/C++ and Java, improving average student assessment scores by 20%.
+- Taught weekly Python programming classes to 20 middle school students, increasing concept mastery by 15% based on performance evaluations.
+- Mentored 2 engineering majors in embedded systems projects, with both students completing their capstone projects ahead of schedule.
 
-### **Frontend Developer Intern — AVOLTA, Inc.**  
-*Nov 2023 – Jul 2024 | Remote*  
-- Built a cross-platform **React Native** mobile app for real-time car security alerts.  
-- Reduced API data latency by **33%**, improving responsiveness and UX.  
-- Resolved **10+ UI bugs per sprint**, ensuring high-quality experiences on both iOS and Android.
+### **Software Engineer Intern - University of Washington, Seattle**  
+*June 2019 – August 2019 | In Person*  
+- Developed a liver segmentation algorithm for IVC 3D modeling from ultrasound images, enhancing detection accuracy by 25% across 40 clinical scans.
+- Implemented MATLAB's graph-based segmentation techniques, improving visualization quality by 35% and reducing processing time by 3 minutes per dataset.
 
 ---
 
