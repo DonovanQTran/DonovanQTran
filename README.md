@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="assets/dark.css">
 
 <div align="center">
-  <h2>⭐️ Welcome to Donovan Tran's GitHub Portfolio ⭐️</h2>
+  <h2>⭐️ Welcome to Donovan's GitHub Portfolio ⭐️</h2>
   <img width="1000px" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="sweet smile"/>
 </div>
 
@@ -33,12 +33,11 @@
 
 ## 💻 Technical Skills
 **Languages:**  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA%20-%20green?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Frameworks:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -54,19 +53,14 @@
 
 **Databases:**  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 
 **Tools & Cloud:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins%20-%20orange?style=for-the-badge&logo=jenkins&logoColor=D33833)
 
 **AI & Agents:**  
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -101,20 +95,15 @@
 
 ## 🚀 Projects
 
-### **AgWeatherNet Website — React.js, Go, Express.js, MySQL, InfluxDB**
-- Rebuilt the AgWeatherNet website with a modern React.js + Go architecture.  
-- Integrated IDW interpolation microservices to process weather-station data efficiently.  
-- Delivered interactive real-time maps for temperature, soil moisture, and precipitation.
-
-### **WeatherSonde — React Native, TypeScript, Java (Native Modules), SQLite**
-- Led mobile development for a drone-based environmental monitoring app.  
-- Built Java native modules for USB serial communication with on-drone sensors.  
-- Supported real-time GPS, temperature, humidity, and pressure data for frost detection.
-
 ### **Sympholingo — React.js, TypeScript, Express.js, OpenAI, SunoAI**
 - Developed an AI-powered language-learning app generating custom songs in users’ target languages.  
 - Integrated OpenAI for grammar/translation analysis and SunoAI for music generation.  
 - Enabled engaging, audio-driven learning experiences.
+
+## **Embedded System Capstone - C, C++, Python, Javascript**
+- Developed a non-invasive pulse oximeter sensor to make interpretable prediction of patients risk of hypoxemia (low oxygen saturation level).
+- Developed a deep learning classification algorithm on Raspberry Pi using Python Keras and TensorFlow libraries and obtained human-research clinical dataset for training and testing purposes.
+- Obtained a hypoxic prediction model with 76% accuracy.
 
 ---
 
@@ -122,9 +111,8 @@
 
 🏅 **CrimsonCode Hackathon 2025 — Best GenAI Winner & Main Track Winner**  
 🏅 **AgAID Digital AgATH0N 2025 — 2nd Place Winner**  
-🏅 **AI For Change Hackathon 2024 — Winner (NutriScan)**  
 
 ---
 
 ## 📬 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khang.bui@wsu.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khangmbui)  [![Resume](https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./KhangBui_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ltran96@gatech.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loctran710)  [![Resume](https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Donovan_Tran_Resume.pdf)
