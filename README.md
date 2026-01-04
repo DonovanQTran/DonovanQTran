@@ -3,7 +3,7 @@
 
 <div align="center">
   <h2>⭐️ Welcome to Donovan's GitHub Portfolio ⭐️</h2>
-  <img width="1000px" src="./assets/Nft Coding GIF.gif" alt="sweet smile"/>
+  <img width="500px" src="./assets/Nft Coding GIF.gif" alt="sweet smile"/>
 </div>
 
 <p align="center">
