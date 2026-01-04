@@ -43,11 +43,14 @@
 
 ## 📚 Education
 
-**Washington State University**  
-*B.S. Computer Science* | **GPA: 3.87** | Expected May 2026  
+**Georgia Institute of Technology, Atlanta**  
+*M.S. Computer Science* | **GPA: 4.00** | Expected Graduate in June 2027
+
+**University of Washington, Seattle**  
+*B.S. Electrical Engineering* | **GPA: 3.64** | Graduated June 2020
 
 **Seattle Central College**  
-*A.S. Computer Science* | **GPA: 3.96** | Graduated June 2023  
+*A.S. Electrical and Electronics Engineering* | **GPA: 3.92** | Graduated August 2018 
 
 ---
 
