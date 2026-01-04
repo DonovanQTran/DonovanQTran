@@ -3,7 +3,7 @@
 
 <div align="center">
   <h2>⭐️ Welcome to Donovan Tran's GitHub Portfolio ⭐️</h2>
-  <img width="350px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="sweet smile"/>
+  <img width="500px" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="sweet smile"/>
 </div>
 
 <p align="center">
